@@ -1,0 +1,1 @@
+export const POPOVER_VISIBLE = "pageOne/POPOVER_VISIBLE"
